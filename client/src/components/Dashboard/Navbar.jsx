@@ -24,7 +24,7 @@ const Navbar = () => {
       <div 
         className='col-span-10 justify-self-start my-auto pl-20 font-bold text-2xl cursor-pointer'
         >
-        Paytm
+        PaySP
       </div>
       <div className='col-span-1 justify-self-center my-auto text-2xl font-bold'>Hello, {user.username}</div>
       <div 
